@@ -19,13 +19,13 @@ To backup the real controller, the following requirements must be met:
 - Access to the flex pendant.
 - RobotStudio installed.
 
-Als aan deze voorwaardes voldaan is, kan je beginnen met het maken van een backup van het robot station, om deze uiteindelijk ook te kunnen importeren in RobotStudio. Om te beginnen, ga in Robotstudio naar ‘File’ > ‘New’ > ‘Empty Station’ > en klik ‘Create’. Dit creeert een nieuw leeg station wat ons de mogelijkheid bied om met de echte controller te verbinden over het internet. 
+If these conditions are met, you can start making a backup of the robot station, and eventually import it into RobotStudio. To get started, in Robotstudio go to "File"> "New"> "Empty Station"> and click "Create". This creates a new empty station which allows us to connect to the real controller over the internet.
 
 ![Robotstudio](../images/robotstudio1.png)
 ![Robotstudio](../images/robotstudio2.png)
 
-Om verbinding te maken met de echte controller. Ga naar tabblad ‘Controller’ > ‘Add Controller’ (Dropdown menu) > en klik ‘Add Controller... - Add available controller on the network.’ 
-A popup window will apear. Select the contoller you want to add and press ‘OK’. Now you can see the controller in the controller list. To make a backup of the controller
+To connect to the real controller. Go to tab "Controller"> "Add Controller" (Dropdown menu)> and click "Add Controller ... - Add available controller on the network."
+A popup window will apear. Select the contoller you want to add and press "OK". Now you can see the controller in the controller list. To make a backup of the controller
 
 ![Robotstudio](../images/robotstudio3.png)
 
